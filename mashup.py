@@ -12,8 +12,8 @@ app = Flask(__name__)
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 sys.stderr = codecs.getwriter('utf8')(sys.stderr)
 
-foursquare_client_id = "GCQZ0YREZOBQUMWO54DCJTBC33WPB4AR2N0L30ZVO5ZHC5GD"
-foursquare_client_secret = "VVZIKOHDH0RIEPXBXZPYEYPWBC3ETZISHDXX3ILEU2R5DQP1"
+foursquare_client_id = "CLIENT_ID"
+foursquare_client_secret = "SECRET_SOUP"
 
 google_api_key = "AIzaSyD_jewOWtrJj-qlqjyomIORxNAriILA-d8"
 
